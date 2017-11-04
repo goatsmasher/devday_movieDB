@@ -1,0 +1,32 @@
+/* This file will contain all the main styles to be used across the website  */
+
+body{
+	background-color: #f3f3f3;
+	height: 100vh;
+	box-sizing: border-box;
+}
+
+.header-content {
+	background-color: #bdbcbc;
+	border: 1px solid #131313;
+}
+
+.header-content-left {
+	width: 70%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+.header-content-right {
+	width: 29%;
+	height: 100%;
+	display: inline-block;
+}
+
+.header-content-right img {
+	height: 75%;
+	width: 75%;
+	padding-top: 40px;
+}

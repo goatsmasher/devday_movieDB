@@ -1,0 +1,12 @@
+main {
+	text-align: center;
+}
+
+#search-bar {
+	width: 95%;
+}
+
+.poster-element {
+	margin: 2px;
+	display: block;
+}
