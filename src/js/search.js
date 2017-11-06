@@ -66,7 +66,7 @@ const populatePageWithResults = input => {
 			const rowNode = document.createElement("img");
 			rowNode.setAttribute("src", "https://image.tmdb.org/t/p/w500/" + element.poster_path);
 			rowNode.className = "poster-element";
-			displayArea.appendChild(rowNode);
+			displayArea.appendChild(rowNode); ``
 		});
 	}
 };
